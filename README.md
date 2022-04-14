@@ -4,5 +4,5 @@
 ### <br>
 
 <div align="center">
-<img width="400px" src="https://github.com/CarlaMGaldino/Conversor-Dolar/blob/main/imagens/conversor.png">
+<img width="500px" src="https://github.com/CarlaMGaldino/Conversor-Dolar/blob/main/imagens/conversor.png">
 <div>
